@@ -14,7 +14,7 @@
   <br><br>
 </div>
 
-![napp-demo](screenshot.png)
+![napp-demo](https://github.com/aadithyanr/napp/blob/main/public/screenshot.png?raw=true)
 
 ## What are Sleep Cycles?
 *Sleep cycles are approximately 90-minute periods during which your body goes through different stages of sleep, including light sleep, deep sleep, and REM sleep. Waking up during the lighter stages of sleep (at the end of a sleep cycle) helps you feel more refreshed and energized, while waking up during deep sleep can leave you feeling groggy and fatigued. By timing your sleep to complete full cycles, you can optimize your sleep quality and minimize morning headaches and grogginess.*
@@ -36,30 +36,9 @@ Napp accounts for the average 14 minutes it takes most people to fall asleep and
 3. Feel more refreshed upon waking
 4. Optimize your sleep even when getting less than 8 hours
 
-## Getting Started
-### Installation
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/Napp.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd Napp
-   ```
-3. Install dependencies:
-   ```
-   npm install
-   ```
-
-### Running the app
-```
-npm run dev
-```
-The app will be available at `http://localhost:3000` by default.
-
 ## Video Demo
 <div align="center">
-<video src="napp.mp4" width="640" height="360" controls></video>
+<video src="https://github.com/aadithyanr/napp/blob/main/public/napp.mp4" width="640" height="360" controls></video>
 </div>
 
 ## Why I Built This
